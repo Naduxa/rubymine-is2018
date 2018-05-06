@@ -1,2 +1,2 @@
-if False:
+if (5 == 5 and (3 < 4) or (4 < 4 or (4 != 4))) or 5.23 == 5.23 or 5.0 == 5:
     pass
